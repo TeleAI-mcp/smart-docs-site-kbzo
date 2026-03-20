@@ -1,2 +1,3 @@
-# smart-docs-site-kbzo
-Automated issue comment bot repository
+# Smart Docs Site Kbzo
+
+Automated issue comment bot repository.
